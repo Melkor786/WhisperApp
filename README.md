@@ -6,6 +6,6 @@ WhisperApp is a Full Mern Stack chatting application which allows multiple users
 
 **Client Side :** Reactjs, Chakra UI
 
-**Server Side :** : Node JS, Express JS, Socket.IO
+**Server Side :** Node JS, Express JS, Socket.IO
 
 **Database :** Mongo DB
